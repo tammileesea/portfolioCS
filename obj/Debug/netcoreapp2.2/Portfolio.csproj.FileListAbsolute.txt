@@ -12,3 +12,14 @@
 /Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cache
 /Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.dll
 /Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.pdb
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.Views.dll
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.Views.pdb
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.TagHelpers.input.cache
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.TagHelpers.output.cache
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorCoreGenerate.cache
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cs
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.Views.pdb
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csproj.CopyComplete
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/tammilee/Desktop/codingDojo/csharp/aspDotNet/Portfolio/obj/Debug/netcoreapp2.2/Razor/Views/Home/Project.g.cshtml.cs

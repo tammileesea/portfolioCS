@@ -3,16 +3,16 @@ using Microsoft.AspNetCore.Mvc;
 namespace Portfolio{
     public class HomeController : Controller{
         [HttpGet("")]
-        public string Index(){
-            return "This is my Index!";
+        public ViewResult Index(){
+            return View();
         }
         [HttpGet("projects")]
-        public string Project(){
-            return "These are my projects!";
+        public ViewResult Project(){
+            return View();
         }
         [HttpGet("contact")]
-        public string Contact(){
-            return "This is my Contact info!";
+        public ViewResult Contact(){
+            return View();
         }
     }
 }
