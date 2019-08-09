@@ -1,0 +1,64 @@
+/* INDEX */
+#potatoPic{
+    display: inline-block;
+    width: 300px;
+}
+#about{
+    margin-left: 395px;
+}
+#pic{
+    display: inline-block;
+    margin-left: 50px;
+}
+#potatoes{
+    display: inline-block;
+    vertical-align: top;
+    max-width: 1000px;
+    margin-left: 30px;
+}
+
+/* PROJECT */
+#project{
+    margin-left: 170px;
+}
+#allProjects{
+    margin-left: 100px;
+}
+.eachProject{
+    margin-top: 50px;
+}
+.projectImg{
+    width: 200px;
+    display: inline-block;
+}
+.projectInfo{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+
+/* CONTACT */
+.nav{
+    margin-left: 400px;
+}
+#contact{
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+.formTables{
+    margin-left: 250px;
+}
+.formTables button{
+    display: block;
+    margin-left: 210px;
+}
+#nameTable{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#messageTable{
+    display: inline-block;
+}
